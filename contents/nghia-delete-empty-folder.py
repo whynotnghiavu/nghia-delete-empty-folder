@@ -15,6 +15,7 @@ folder_path = r"/home/vvn20206205/Desktop/input-nghia-delete-empty-folder"
 folder_path = r"/home/vvn20206205/Desktop/input"
 folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu"
 folder_path = r"C:\Users\vvn20206205\Desktop\ddddddddddddd"
+folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu"
 
 
 if not os.path.exists(folder_path):
