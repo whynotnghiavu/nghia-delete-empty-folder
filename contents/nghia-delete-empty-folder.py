@@ -13,10 +13,13 @@ def delete_empty_folder(folder_path):
 folder_path = r"input-nghia-delete-empty-folder"
 folder_path = r"/home/vvn20206205/Desktop/input-nghia-delete-empty-folder"
 folder_path = r"/home/vvn20206205/Desktop/input"
+folder_path = r"C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu"
+folder_path = r"C:\Users\vvn20206205\Desktop\ddddddddddddd"
 
 
 if not os.path.exists(folder_path):
-    os.mkdir(folder_path)
+    print(f"Không có thư mục {folder_path}")
+    # os.mkdir(folder_path)
 
 
 delete_empty_folder(folder_path)
