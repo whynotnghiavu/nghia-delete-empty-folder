@@ -3,6 +3,3 @@
 
 # Nhưng không bỏ qua tệp .gitignore
 !.gitignore
-
-# Nhưng không bỏ qua tệp nghia-delete-empty-folder.py
-!nghia-delete-empty-folder.py
